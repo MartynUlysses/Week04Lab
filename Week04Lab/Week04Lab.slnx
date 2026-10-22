@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Diagrams/" />
+  <Project Path="../Ex2_Conditions/Ex2_Conditions.vcxproj" />
+  <Project Path="../Ex3_Parcel/Ex3_Parcel.vcxproj" />
+  <Project Path="../Ex4_TollGate/Ex4_TollGate.vcxproj" />
+  <Project Path="../Ex5_HostelGate/Ex5_HostelGate.vcxproj" />
+  <Project Path="../Ex6_BugHunt/Ex6_BugHunt.vcxproj" />
+  <Project Path="Week04Lab.vcxproj" />
+</Solution>
